@@ -17,10 +17,10 @@
           "help": {
             "online": "http://fabo.io"
           },
-          "url": "http://downloads.arduino.cc/cores/avr-1.6.23.tar.bz2",
-          "archiveFileName": "avr-1.6.23.tar.bz2",
-          "checksum": "SHA-256:18618d7f256f26cd77c35f4c888d5d1b2334f07925094fdc99ac3188722284aa",
-          "size": "5001988",
+          "url": "https://hidekiyamauchi.github.io/fabo-avr-boards/packages/fabo-avr-0.0.1.tar.bz2",
+          "archiveFileName": "fabo-avr-0.0.1.tar.bz2",
+          "checksum": "SHA-256:684e1afe2fd55573fadb0305a915af062b1aabbd596af1019b0ff50f999127ad",
+          "size": "868",
           "boards": [
             {"name": "FaBo IO"},
             {"name": "FaBo Donkey"}
